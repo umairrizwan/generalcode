@@ -226,7 +226,7 @@ public class Array {
 	
 	public static void main(String [] args)
 	{
-		String [] names = {"OK","Python","C#","Ruby","Java","Python","OK","Ruby","TATA","Mercedes"};
+		String [] names = {"OK","Python","C#","Ruby","Java","Python","OK","Ruby","TATA","Mercedes","Ferrari"};
 		
 		int[] numberss = {1,2,3,4,5,6,8,11,44,55,66,77};
 		
