@@ -238,7 +238,7 @@ public class Array {
 		
 		obj.findDuplicateArrayUsingHash(names);
 		
-		obj.findNumberinArray(11, numberss);
+		//obj.findNumberinArray(11, numberss);
 		
 		
 		int[] numbers = {22,44,55,66,-66,-23,100};
